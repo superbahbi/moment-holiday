@@ -15,13 +15,12 @@
     "denmark",
     "hrvatska",
     "india",
-    "easter",
     "finland",
     "germany",
     "switzerland"
   ],
   "author": {
-    "name": "Kodie Grantham",
+    "name": "",
     "email": "kodie.grantham@gmail.com",
     "url": "http://kodieg.com"
   },
@@ -56,5 +55,6 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/jshint *.js locale/*.js && ava"
-  }
+  },
+  "namespace": "@superbahbi"
 }
