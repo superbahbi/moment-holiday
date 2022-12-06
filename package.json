@@ -1,37 +1,28 @@
 {
-  "name": "moment-holiday",
-  "version": "1.5.1",
-  "description": "A Moment.js plugin for handling holidays.",
+  "name": "moment-holiday-us",
+  "version": "1.0.0",
+  "description": "A Moment.js plugin for handling US holidays.",
   "keywords": [
     "moment",
     "momentjs",
     "holiday",
     "holidays",
-    "calculation",
     "united states",
-    "us",
-    "canada",
-    "croatia",
-    "denmark",
-    "hrvatska",
-    "india",
-    "finland",
-    "germany",
-    "switzerland"
+    "us"
   ],
   "author": {
     "name": "",
-    "email": "kodie.grantham@gmail.com",
-    "url": "http://kodieg.com"
+    "email": "superbahbi@gmail.com",
+    "url": "http://bahbi.net"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kodie/moment-holiday.git"
+    "url": "https://github.com/superbahbi/moment-holiday-us.git"
   },
   "bugs": {
-    "url": "https://github.com/kodie/moment-holiday/issues"
+    "url": "https://github.com/superbahbi/moment-holiday-us/issues"
   },
-  "homepage": "https://github.com/kodie/moment-holiday",
+  "homepage": "https://github.com/kodie/moment-holiday-us",
   "license": "MIT",
   "main": "./build/moment-holiday-us.min.js",
   "files": [
@@ -52,9 +43,6 @@
     "gulp-uglify": ">=3.0.0",
     "jshint": ">=2.9.1",
     "yargs": ">=8.0.0"
-  },
-  "scripts": {
-    "test": "./node_modules/.bin/jshint *.js locale/*.js && ava"
   },
   "namespace": "@superbahbi"
 }
